@@ -4,7 +4,7 @@
 ### Seja Bem-Vindo 😄
 
 
- - 📚 Cursando Análise e Desenvolvimento de Sistemas.
+ - 📚 Cursando Análise e Desenvolvimento de Sistemas pelo SENAI de Informática - SP.
  - 🧐 Aberto a novas oportunidades e experiências!
  - 📌 Osasco, São Paulo-BR
 

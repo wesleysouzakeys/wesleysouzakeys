@@ -4,8 +4,8 @@
 ### Seja Bem-Vindo 😄
 
 
- - 📚 Cursando Análise e Desenvolvimento de Sistemas pelo SENAI de Informática - SP.
- - 🧐 Aberto a novas oportunidades e experiências!
+ - 📚 Desenvolvimento de Sistemas pelo SENAI de Informática - SP. ✔
+ - 👦 Sou apaixonado por tecnologia, música e Jesus.
  - 📌 Osasco, São Paulo-BR
 
 ##  Tecnologias 💻

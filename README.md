@@ -5,6 +5,7 @@
 
 
  - 📚 Desenvolvimento de Sistemas pelo SENAI de Informática - SP. ✔
+ - 📚 Engenharia de Software pela FIAP. 1/6 🕐
  - 👦 Sou apaixonado por tecnologia, música e Jesus.
  - 📌 Osasco, São Paulo-BR
 

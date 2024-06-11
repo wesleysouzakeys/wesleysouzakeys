@@ -5,7 +5,7 @@
 
 
  - 📚 Systems Development at SENAI de Informática - SP. ✔
- - 📚 Software Engineering at FIAP. 1/4 🕐
+ - 📚 Software Engineering at FIAP. 2/4 🕐
  - 👦 Passionate for technology, music and Jesus.
  - 📌 Osasco, São Paulo-BR
 
